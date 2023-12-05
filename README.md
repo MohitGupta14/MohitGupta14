@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Gupta</h1>
 <h3 align="center">GitHubbing My All into Open-Source Adventures 🌍🔓</h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Web3**
 
 - 💬 Ask me about **JavaScript and React**
 
