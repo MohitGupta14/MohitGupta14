@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohitguptaofficial53@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S4s5Ld3EJTRw1ptnc-oy1zddHVkbljqi/view?usp=drive_link](https://drive.google.com/file/d/1S4s5Ld3EJTRw1ptnc-oy1zddHVkbljqi/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YT0P7cMLVKqpwhrmXb629FvwUOqzGIdU/view?usp=sharing](https://drive.google.com/file/d/1YT0P7cMLVKqpwhrmXb629FvwUOqzGIdU/view?usp=sharing)
 
 - 🏆 My past work in Google Summer of Code [https://drive.google.com/file/d/1S4s5Ld3EJTRw1ptnc-oy1zddHVkbljqi/view?usp=drive_link](https://docs.google.com/document/d/1rYJhfBzcAldhAtW8SHx5HZZpfbGkk4aCaEc8z0P7MDU/edit)
 
